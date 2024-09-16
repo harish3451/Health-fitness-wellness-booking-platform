@@ -1,0 +1,19 @@
+.layout{
+    background-image: url(/public/Images/flat-lay-health-still-life-arrangement-with-copy-space.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.home,.userManager,.adminhome{
+    background-image: url(/public/Images/medical-equipments-report-pills-isolated-white-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.login,.register{
+    background-image: url(/public/Images/medical-equipments-report-pills-isolated-white-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
